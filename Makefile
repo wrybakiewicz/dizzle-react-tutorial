@@ -9,3 +9,6 @@ compile:
 migrate:
 	make compile
 	truffle migrate
+
+develop:
+	truffle develop
